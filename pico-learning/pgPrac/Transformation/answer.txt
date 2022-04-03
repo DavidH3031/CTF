@@ -1,0 +1,5 @@
+### https://dencode.com/en/string
+encoded with UTF-16
+
+hex = 7069636f4354467b31365f626974735f696e73743334645f6f665f385f30346330373630647d0020
+picoCTF{16_bits_inst34d_of_8_04c0760d}
