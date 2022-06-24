@@ -1,5 +1,7 @@
 # Cyber Security Practice
 
-> This is random things sorted into folders which i used during the picoCTF/THM/HackTheBox practice rooms. 
+This is my way of documenting experience i have gained through CTF events such as PicoCTF, TryHackMe and in the future HackTheBox.
 
-# DISCLAIMER: None of this will make sense to anyone if you ever come across this it is just for my own reference.
+As you will be able to see not everything is finished or makes complete sense. I started this as a beginner in the Cyber industry and am attempting to improve in all aspects including documentation. Hopefully as time goes on you will see a huge increase in the quality of notes along side the relevant files. 
+
+
